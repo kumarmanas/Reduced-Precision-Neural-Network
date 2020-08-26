@@ -33,4 +33,3 @@ If you want to run these files on Google Colab server. You can have a look at th
 
 https://github.com/BertMoons/QuantizedNeuralNetworks-Keras-Tensorflow
 https://github.com/tensorpack/tensorpack/tree/master/examples/DoReFa-Net
-https://larq.dev/
