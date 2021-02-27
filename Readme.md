@@ -8,6 +8,7 @@ Code is developed based on a [lasagne/theano](https://github.com/MatthieuCourbar
 ## Installation
 
 Running this code requires:
+
 1. [Tensorflow](https://www.tensorflow.org/install/) version 1.14 or 1.15
 2. [Keras 2.0](https://keras.io/) version 2.2.5; other versions (2.3.x) have some known issue with 8-Bit QNN model
 3. [Mathplotlib](https://matplotlib.org/) for graphs
